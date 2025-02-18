@@ -4,14 +4,14 @@ It is Pathfinder Spelldirectory's policy to respect your privacy regarding any i
 
 We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
 
-Personal Data collected:
-Crash traces
+## Personal Data collected:
+- Crash traces
 
-How data helps provide the service:
-Helping a user associate crash data with specific instances of their app.
+## How data helps provide the service:
+- Helping a user associate crash data with specific instances of their app.
 
-Retention:
-Crash traces and their associated identifiers are kept for 90 days.
+## Retention:
+- Crash traces and their associated identifiers are kept for 90 days.
 
 Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
