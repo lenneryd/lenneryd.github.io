@@ -17,4 +17,7 @@ Your information, including Personal Data, may be transferred to — and maintai
 
 Your continued use of our mobile app will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us at our email address - zora.development@gmail.com
 
+## Data Deletion: 
+For data deletion inquiries, see: <a href="https://lenneryd.github.io/delete/delete.html">https://lenneryd.github.io/delete/delete.html</a>
+
 This policy is effective as of February 18, 2025
